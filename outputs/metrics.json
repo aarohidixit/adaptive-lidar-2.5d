@@ -1,0 +1,29 @@
+{
+    "total_points": 36891,
+    "processing_time_ms": 1780.9362411499023,
+    "class_counts": {
+        "unknown": 0,
+        "terrain": 25821,
+        "static_obstacle": 9288,
+        "vehicle": 1597,
+        "pedestrian": 185
+    },
+    "memory_reduction": {
+        "uniform_cells": 16000000,
+        "uniform_mb": 488.28125,
+        "adaptive_cells": 22598,
+        "adaptive_mb": 0.68963623046875,
+        "reduction_pct": 99.8587625
+    },
+    "zone_stats": {
+        "zone1": 12411,
+        "zone2": 9530,
+        "zone3": 657,
+        "total": 22598,
+        "valid_points": 36891,
+        "dropped": 0
+    },
+    "frame_index": 70,
+    "fps": 0.5615024147941012,
+    "memory_delta_mb": 0.0
+}
